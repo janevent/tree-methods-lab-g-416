@@ -61,6 +61,6 @@ function min(rootNode){
 
 let nody = { data: 8, right: {
               data: 9, left: null, right: {
-                data: 13, left: 10, right: null },
+                data: 13, left: 10, right: null } }
             left: { data: 3, left: 1, right: 2 }
 }
