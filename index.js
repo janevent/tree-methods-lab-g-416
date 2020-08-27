@@ -65,3 +65,6 @@ let nody = { data: 8, right: {
                       },
                       left: { data: 3, left: null, right: null }
             }
+            
+  min(nody);
+  max(nody);
